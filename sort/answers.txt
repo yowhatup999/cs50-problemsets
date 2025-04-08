@@ -1,0 +1,20 @@
+sort1 uses:
+Bubble Sort
+
+How do you know?:
+The sorting time for both the random and reversed lists was roughly the same, but the already sorted list was significantly faster.
+This suggests that the algorithm can detect when no swaps are needed and terminate early, which is a key characteristic of Bubble Sort.
+
+sort2 uses:
+Merge Sort
+
+How do you know?:
+The sorting process was consistently fast, and the execution time remained almost the same across all scenarios. This matches the behavior of Merge Sort, which always runs in
+O(n log n) time, regardless of how the input list is arranged.
+
+sort3 uses:
+Selection Sort
+
+How do you know?:
+The sorting was relatively slow, and the execution time did not vary much between the different input cases.
+This is typical for Selection Sort, as it always scans the entire list to find the smallest element, regardless of whether the list is already sorted or not.
