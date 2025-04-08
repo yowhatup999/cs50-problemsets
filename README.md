@@ -17,7 +17,6 @@ Ich arbeite die Aufgaben eigenständig durch und kommentiere dabei meinen Code, 
 
 - C und Algorithmen wirklich verstehen
 - Mehr Übung im Lösen von Programmierproblemen
-- Später auch als Referenz für mich selbst oder Bewerbungen nutzen
 
 **Hinweis:** Das ist kein Vorzeigecode. Ich lerne noch. Manche Lösungen sind chaotisch, manche kommentiert, manche vielleicht auch falsch – aber ich arbeite dran.
 
