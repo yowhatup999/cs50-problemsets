@@ -12,6 +12,7 @@ Ich arbeite die Aufgaben eigenständig durch und kommentiere dabei meinen Code, 
 - **Woche 2:** readability, substitution, caesar  
 - **Woche 3:** plurality, runoff, tideman  
 - **Woche 4:** volume, filter, recover
+- **Woche 5:** Inheritance, Speller
 
 ## Ziel
 
